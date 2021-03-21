@@ -28,7 +28,12 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Commit changes
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "rrmuddinagiri@gmail.com"
+          git config --global user.name "ruchikamuddinagiri"
+          git add -A
+          git commit -m "Updated articles" || exit 0
+          git push
