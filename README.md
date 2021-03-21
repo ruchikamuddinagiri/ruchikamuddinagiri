@@ -4,6 +4,7 @@
 <p>Apart from that, I am also frequently found caffienating!</p>
 <img src="https://github-readme-stats.vercel.app/api?username=ruchikamuddinagiri&count_private=true&show_icons=true&theme=radical" />
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<h3>Visitor Count</h3>
 <img src="https://profile-counter.glitch.me/ruchikamuddinagiri/count.svg">
 <table>
     <th>Projects</th>
@@ -18,5 +19,6 @@
 </table>
 <hr>
 <p>This is a self updating Readme!</p>
-<p>Last Run on: 2021-03-21T17:40:37.638Z</p>
-<img src="https://github.com/github/docs/actions/workflows/conf.yml/badge.svg">
+<p>Last Run on: 2021-03-21T17:54:41.515Z</p>
+<img src="https://github.com/ruchikamuddinagiri/ruchikamuddinagiri/actions/workflows/conf.yml/badge.svg">
+<img src="https://github.com/ruchikamuddinagiri/ruchikamuddinagiri/actions/workflows/conf.yml">
