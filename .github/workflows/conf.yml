@@ -33,8 +33,7 @@ jobs:
         key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
     - run: npm install
     - run: node index.js
-    - name: Push
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+    - name: Push new README.md
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
