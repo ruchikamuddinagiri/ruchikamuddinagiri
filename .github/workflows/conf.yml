@@ -1,7 +1,5 @@
-# Name of workflow
-name: Build README
-#- cron: '1 12 * * 0,3,5'
-# Run workflow at 12:01 on Sunday, Wednesday, and Friday
+name: README build
+
 on:
   workflow_dispatch:
   push:
@@ -10,30 +8,27 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-# Steps to carry out
 jobs:
   build:
-    # Create a ubuntu virtual machine
     runs-on: ubuntu-latest
 
-    # Checkout repo code
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v2
-
-    # Install node
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '12.x'
-    - name: Cache Node Modules
-      uses: actions/cache@v2
-      with:
-        path: node_modules
-        key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-    - run: npm install
-    - run: node index.js
-    - name: Push new README.md
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+      - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
