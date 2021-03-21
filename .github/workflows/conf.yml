@@ -35,4 +35,4 @@ jobs:
           git config --global user.name "ruchikamuddinagiri"
           git add -A
           git commit -m "Updated"
-          git push -u origin main
+          git push -u origin master
