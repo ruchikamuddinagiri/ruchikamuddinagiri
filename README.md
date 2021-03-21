@@ -1,9 +1,13 @@
 ### Hi there 👋
+
+![Ruchika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchikamuddinagiri&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikamuddinagiri)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ruchikamuddinagiri/ruchikamuddinagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+anuraghazra
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
