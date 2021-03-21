@@ -1,5 +1,7 @@
 <h1>Hello there!🌚</h1>
 <h3> I am Ruchika Muddinagiri. I am a software developer. Welcome to my Github.</h3>
+<p>Being engrossed in imaginary battles between dragons and developing software in a quiet corner is where and how you'll find me!</p>
+<p>Apart from that, I am also frequently found caffienating!</p>
 <img src="https://github-readme-stats.vercel.app/api?username=ruchikamuddinagiri&count_private=true&show_icons=true&theme=radical" />
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 <img src="https://profile-counter.glitch.me/ruchikamuddinagiri/count.svg">
@@ -16,5 +18,5 @@
 </table>
 <hr>
 <p>This is a self updating Readme!</p>
-<p>Last Run on: 2021-03-21T17:21:56.524Z</p>
+<p>Last Run on: 2021-03-21T17:33:55.641Z</p>
 <img src="https://github.com/github/docs/actions/workflows/conf.yml/badge.svg">
