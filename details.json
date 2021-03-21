@@ -1,0 +1,13 @@
+{
+    "name": "Ruchika Muddinagiri",
+    "projects": [
+        {
+            "name":"task-manager",
+             "stars": "http://api.github.com/repos/ruchikamuddinagiri/task-manager"
+        }, 
+        {
+            "name":"WeatherApp",
+            "stars": "http://api.github.com/repos/ruchikamuddinagiri/WeatherApp"
+        }
+    ]
+}
