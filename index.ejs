@@ -5,7 +5,7 @@
         <th>Projects</th>
             <% for(const project of projects) { %><tr>
                 <td><%= project.name %></td>
-                <td><img src="<%= project.stars %>"></td>
+                <td><img src="<%= project.stars %>" /></td>
             </tr><% } %>
     </table>
     <p>Last Run on: <%= lastRunOn %></p>
