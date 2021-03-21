@@ -3,11 +3,11 @@
     "projects": [
         {
             "name":"task-manager",
-             "stars": "http://api.github.com/repos/ruchikamuddinagiri/task-manager"
+             "stars": "https://img.shields.io/github/stars/ruchikamuddinagiri/task-manager?style=plastic&labelColor=FFB6C1"
         }, 
         {
             "name":"WeatherApp",
-            "stars": "http://api.github.com/repos/ruchikamuddinagiri/WeatherApp"
+            "stars": "https://img.shields.io/github/stars/ruchikamuddinagiri/WeatherApp?style=plastic&labelColor=FFB6C1"
         }
     ]
 }
