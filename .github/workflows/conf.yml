@@ -1,0 +1,40 @@
+# Name of workflow
+name: Build README
+
+# Run workflow at 12:01 on Sunday, Wednesday, and Friday
+on:
+  schedule:
+    - cron: '1 12 * * 0,3,5'
+  # Run workflow on pushes to main branch
+  push:
+    branches:
+      - main
+
+# Steps to carry out
+jobs:
+  build:
+    # Create a ubuntu virtual machine
+    runs-on: ubuntu-latest
+
+    # Checkout repo code
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    # Install node
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - name: Cache Node Modules
+      uses: actions/cache@v2
+      with:
+        path: node_modules
+        key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+    - run: npm install
+    - run: node index.js
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
