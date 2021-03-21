@@ -1,4 +1,5 @@
-<center><p>Hello there!🌚 I am Ruchika Muddinagiri. I am a software developer. Welcome to my Github.</p></center>
+<h1>Hello there!🌚</h1>
+<h3> I am Ruchika Muddinagiri. I am a software developer. Welcome to my Github.</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=ruchikamuddinagiri&count_private=true&show_icons=true&theme=radical" />
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 <img src="https://profile-counter.glitch.me/ruchikamuddinagiri/count.svg">
@@ -13,4 +14,7 @@
             <td><img src="https://img.shields.io/github/stars/ruchikamuddinagiri/WeatherApp?style=plastic&amp;labelColor=FFB6C1" /></td>
         </tr>
 </table>
-<p>Last Run on: 2021-03-21T16:47:58.388Z</p>
+<hr>
+<p>This is a self updating Readme!</p>
+<p>Last Run on: 2021-03-21T16:58:27.353Z</p>
+<img src="https://github.com/github/docs/actions/workflows/conf.yml/badge.svg">&nbsp;<img src="https://github.com/ruchikamuddinagiri/ruchikamuddinagiri/actions/workflows/conf.yml"/>
