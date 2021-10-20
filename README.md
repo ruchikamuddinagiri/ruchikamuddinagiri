@@ -19,6 +19,6 @@
 </table>
 <hr>
 <p>This is a self updating Readme!</p>
-<p>Last Run on: 2021-10-19T00:30:44.904Z</p>
+<p>Last Run on: 2021-10-20T00:31:05.105Z</p>
 <img src="https://github.com/ruchikamuddinagiri/ruchikamuddinagiri/actions/workflows/conf.yml/badge.svg">
 <img src="https://github.com/ruchikamuddinagiri/ruchikamuddinagiri/actions/workflows/conf.yml">
