@@ -1,6 +1,6 @@
 <h1>Hello there!🌚</h1>
-<h3> I am Ruchika Muddinagiri. I am a software developer. Welcome to my Github.</h3>
-<p>Being engrossed in imaginary battles between dragons and developing software in a quiet corner is where and how you'll find me!</p>
+<h3> Hi, I'm Ruchika Muddinagiri, a software developer. Welcome to my GitHub—where I share my projects, ideas, and passion for code!</h3>
+<p>Lost in worlds of mythical dragons or crafting innovative software solutions—where imagination meets code, that's where you'll find me!</p>
 <p>Apart from that, I am also frequently found caffienating!</p>
 <img src="https://github-readme-stats.vercel.app/api?username=ruchikamuddinagiri&count_private=true&show_icons=true&theme=radical" />
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
