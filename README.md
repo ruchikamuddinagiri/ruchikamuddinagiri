@@ -2,7 +2,7 @@
 <h3> I'm Ruchika Muddinagiri, a software developer. Welcome to my GitHub—where I share my projects, ideas, and passion for code!</h3>
 <p>Lost in worlds of mythical dragons or crafting innovative software solutions—where imagination meets code, that's where you'll find me!</p>
 <p>Apart from that, I am also frequently found caffienating!</p>
-<img src="https://github-readme-stats.vercel.app/api?username=ruchikamuddinagiri&count_private=true&show_icons=true&theme=radical&rank_icon=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ruchikamuddinagiri&count_private=true&show_icons=true&theme=radical&rank_icon=github" />
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 <h3>Visitor Count</h3>
 <img src="https://profile-counter.glitch.me/ruchikamuddinagiri/count.svg">
