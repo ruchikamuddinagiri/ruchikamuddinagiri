@@ -12,21 +12,6 @@
 </ul>
 
 <h2> 🔹 Featured Projects</h2>
-<table>
-    <th>Projects</th>
-    <th>Stars</th>
-        
-        <tr>
-            <td><a href="">task-manager</a></td>
-            <td><img src="https://img.shields.io/github/stars/ruchikamuddinagiri/task-manager?style=plastic&amp;labelColor=FFB6C1" /></td>
-        </tr>
-        
-        <tr>
-            <td><a href="">WeatherApp</a></td>
-            <td><img src="https://img.shields.io/github/stars/ruchikamuddinagiri/WeatherApp?style=plastic&amp;labelColor=FFB6C1" /></td>
-        </tr>
-        
-</table>
 
 <h3> 🛠️ AI-Powered Security Platform</h3>
 <ul>
