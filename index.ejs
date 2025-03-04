@@ -6,7 +6,7 @@
 <p>🚀 Passionate about <b>building scalable web applications, optimizing API performance, and integrating AI-driven solutions</b> to enhance digital experiences.</p>
 <ul>
 <li>💻 Full-Stack Developer | AI & ML Engineer</li>
-<li>📍 Austin, TX | <a href="https://linkedin.com/in/ruchika-muddinagiri/">LinkedIn</a> | <a href="https://ruchikam.netlify.app/">Portfolio</a></li>
+<li><a href="https://linkedin.com/in/ruchika-muddinagiri/">LinkedIn</a> | <a href="https://ruchikam.netlify.app/">Portfolio</a></li>
 <li>🎯 Experienced in <b>React, TypeScript, Node.js, AI/ML, and Cloud Computing</b></li>
 <li>📈 Interested in <b>high-performance applications, Generative AI, and security-driven architectures</b></li>
 </ul>
