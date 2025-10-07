@@ -11,28 +11,6 @@
 <li>📈 Interested in <b>high-performance applications, Generative AI, and security-driven architectures</b></li>
 </ul>
 
-<h2> 🔹 Featured Projects</h2>
-
-<h3> 🛠️ AI-Powered Security Platform</h3>
-<ul>
-<li>🔹 <b>Tech:</b> GPT-4, LangChain, RAG, React, Node.js, PostgreSQL, Kubernetes</li>
-<li>🔹 Built an AI-driven security assistant for real-time threat detection and anomaly analysis</li>
-<li>🔹 Deployed scalable microservices with Kubernetes & Terraform, reducing deployment time by 50%</li>
-</ul>
-
-<h3> 🌍 Turtle Migration Tracking Web App</h3>
-<ul>
-<li>🔹 <b>Tech:</b> React, D3.js, Leaflet.js, Node.js, PostgreSQL, GIS</li>
-<li>🔹 Developed an interactive dashboard to visualize real-time animal migration patterns</li>
-<li>🔹 Integrated GPS data ingestion APIs for accurate habitat monitoring and research insights</li>
-</ul>
-
-<h3> 📊 Financial Forecasting Engine</h3>
-<ul>
-<li>🔹 <b>Tech:</b> Python, AWS Lambda, LightGBM, XGBoost, Kafka, Spark</li>
-<li>🔹 Designed an AI-powered predictive model processing 20TB+ financial transactions daily</li>
-<li>🔹 Improved forecast accuracy by 18% using ML-based risk analysis</li>
-</ul>
 
 <h2> 🔹 Skills & Technologies</h2>
 <ul>
